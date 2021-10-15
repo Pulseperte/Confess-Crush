@@ -16,5 +16,5 @@ Hiên ngang bước, sóng gió sẽ qua.`,
     mess: 'Tao biết mà 🥰. Yêu chúng mày nhiều nhiều 😘😘',
     messDesc: 'Luvvvvvvvvvvvvvvvvvvvvv',
     btnAccept: 'youuuuuuuuuuuuuuu',
-    messLink: 'https://github.com/pulseperte/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/pulseperte/Confess-Friend' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
